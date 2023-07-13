@@ -1,3 +1,4 @@
 Introduccón a git
-Flujo de trabajo
+Flujo de trabajo básico
+Gestión de armas
 Repositorios remotos
